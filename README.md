@@ -1,7 +1,11 @@
 # Cl2_CHINO
-GitHubアカウントをポートフォリオ的に扱おうと思って整備中<br>
+GitHub Profile をポートフォリオとして使おうと思って整備中<br>
 
-# Feature
+# こんなもの作ったよ
+- Unityでリズムゲーム
+  - https://www.youtube.com/watch?v=6mSxWZAGFyQ
+- VR360動画
+  - https://www.youtube.com/watch?v=U7CKls54B9w
 - derby_note
   - 機械学習で競馬予想するソースコードの jupyter notebook
 - various
