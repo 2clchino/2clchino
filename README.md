@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @2clchino
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Cl2_CHINO
+GitHubアカウントをポートフォリオ的に扱おうと思って整備中<br>
 
-<!---
-2clchino/2clchino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Feature
+- derby_note
+  - 機械学習で競馬予想するソースコードの jupyter notebook
+- various
+  - 自分以外に使い道のわからない雑多なソースコード類
