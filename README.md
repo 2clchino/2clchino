@@ -13,7 +13,7 @@ GitHub Profile をポートフォリオとして使おうと思って整備中<b
 - [wio](https://github.com/2clchino/wio)
   - オレオレ IoT 作る過程のソース
 - [signal_gui](https://github.com/2clchino/signal_gui)
-  - XDMA 経由で FPGA のメモリを読んで matplotlib でリアルタイムグラフ描画
+  - XDMA 使って FPGA のメモリを読んで matplotlib でリアルタイムグラフ描画 (FPGA側コード無し)
 - [nbody-calc](https://github.com/2clchino/nbody-calc)
   - CUDA C で N 体問題高速計算
 - [various](https://github.com/2clchino/various)
