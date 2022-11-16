@@ -9,7 +9,7 @@
   - https://www.youtube.com/watch?v=U7CKls54B9w
 - [MLSeed](https://github.com/2clchino/MLSeed)
   - MLAgents の環境構築済み雛形 Unity プロジェクト
-- [derby_note](https://github.com/2clchino/derby_note)
+- [derby](https://github.com/2clchino/derby)
   - 機械学習で競馬予想するソースコードの jupyter notebook
 - [wio](https://github.com/2clchino/wio)
   - オレオレ IoT 作る過程のソース
