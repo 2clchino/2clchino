@@ -1,5 +1,4 @@
 # Cl2_CHINO
-GitHub Profile をポートフォリオとして使おうと思って整備中<br>
 
 # こんなもの作ったよ
 - [xdma2gpu](https://github.com/2clchino/xdma2gpu)
