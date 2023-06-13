@@ -3,6 +3,7 @@
 # こんなもの作ったよ
 - [xdma2gpu](https://github.com/2clchino/xdma2gpu)
   - FPGA-GPU直接DMAデータ転送のためのXDMAドライバ拡張
+  - https://ieeexplore.ieee.org/abstract/document/10062662
 - Unity でリズムゲーム
   - https://www.youtube.com/watch?v=6mSxWZAGFyQ
 - VR360 動画
