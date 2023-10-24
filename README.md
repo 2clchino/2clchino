@@ -12,6 +12,8 @@
   - MLAgents の環境構築済み雛形 Unity プロジェクト
 - [derby](https://github.com/2clchino/derby)
   - 機械学習で競馬予想するソースコードの jupyter notebook
+- [tube_remover](https://github.com/2clchino/tube_remover)
+  - YouTube のホームから登録チャンネル以外の再生回数が 1000 以下の動画を除去する FireFox 拡張機能
 - [wio](https://github.com/2clchino/wio)
   - オレオレ IoT 作る過程のソース
 - [signal_gui](https://github.com/2clchino/signal_gui)
