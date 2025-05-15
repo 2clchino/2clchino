@@ -11,7 +11,7 @@
 - [PRSK Border Logger](https://github.com/2clchino/prsk_logger)
   - スマホアプリ「プロセカ(プロジェクトセカイカラフルステージ)」のイベントのボーダーを自動で取得
 - [derby](https://github.com/2clchino/derby)
-  - 機械学習で競馬予想するソースコード
+  - 機械学習で競馬予想
 - [tube_remover](https://github.com/2clchino/tube_remover)
   - YouTube のホームから登録チャンネル以外の再生回数が 1000 以下の動画を除去する FireFox 拡張機能
 - [wio](https://github.com/2clchino/wio)
