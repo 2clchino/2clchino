@@ -9,7 +9,7 @@
 - VR360 動画
   - https://www.youtube.com/watch?v=U7CKls54B9w
 - [PRSK Border Logger](https://github.com/2clchino/prsk_logger)
-  - スマホアプリ「プロセカ(プロジェクトセカイカラフルステージ)」のイベントのボーダーを自動で取得して記録
+  - スマホアプリ「プロセカ(プロジェクトセカイカラフルステージ)」のイベントのボーダーを自動で取得
 - [derby](https://github.com/2clchino/derby)
   - 機械学習で競馬予想するソースコード
 - [tube_remover](https://github.com/2clchino/tube_remover)
