@@ -11,7 +11,7 @@
 - [PRSK Border Logger](https://github.com/2clchino/prsk_logger)
   - スマホアプリ「プロセカ(プロジェクトセカイカラフルステージ)」のイベントのボーダーを自動で取得
 - [PRSK Supporter Bot](https://github.com/2clchino/prsk_supporter)
-  - ↑ から更に派生して任意ユーザーのポイントを追跡、時速の出力、シフト管理、オート監視等の機能を持つ discord bot 
+  - ↑ から更に派生して任意ユーザーのポイントを追跡、時速の出力、シフト管理、オート監視等の機能を持つプロセカイベラン支援用 discord bot 
 - [derby](https://github.com/2clchino/derby)
   - 機械学習で競馬予想
 - [tube_remover](https://github.com/2clchino/tube_remover)
